@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Software at @Innovt / @Cloud2Gether</p>
+<p align="left">Software at @https://github.com/Innovtt / @https://github.com/Cloud2Gether </p>
 
 ###
 
@@ -38,8 +38,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviluquinii&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
 ###
