@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">Software at @Innovt / @Cloud2Gether </p>
+<p align="left">
+  Software at <a href="https://github.com/Innovtt" target="_blank">@Innovt</a> / <a href="https://github.com/Cloud2gether" target="_blank">@Cloud2Gether</a>
+</p>
+
 
 ###
 
