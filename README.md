@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Davi Luquini and i'm a C# Developer, from Salvador, Brazil 🇧🇷</p>
+<p align="left">My name is Davi Luquini and i'm a Backend Software Developer, from Salvador, Brazil 🇧🇷</p>
 
 ###
 
