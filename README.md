@@ -4,19 +4,6 @@
 
 <p align="left">My name is Davi Luquini and i'm a Backend Software Developer, from Salvador, Brazil 🇧🇷</p>
 
-###
-
-<h2 align="left">About Me</h2>
-
-###
-
-<p align="left">
-  Software Developer at <a href="https://github.com/Innovtt" target="_blank">@Innovt</a> / <a href="https://github.com/Cloud2gether" target="_blank">@Cloud2Gether</a>
-</p>
-
-
-###
-
 <h2 align="left">My Techs</h2>
 
 ###
