@@ -2,8 +2,8 @@
 
 ###
 
-<p align="left">My name is Davi Luquini and i'm a Backend Software Developer, from Salvador, Brazil 🇧🇷</p>
-<p align="left">Right now i'm learning React to be a FullStack Developer :D</p>
+<p align="left">Hi, I'm Davi Luquini — a Full Stack Software Developer from Salvador, Brazil 🇧🇷</p>
+<p align="left">My main stack is .NET, and I'm currently learning the Angular framework.</p>
 
 <h2 align="left">My Techs</h2>
 
