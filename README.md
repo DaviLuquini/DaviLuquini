@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I'm Davi Luquini. I'm a Full Stack Software Developer from Salvador, Brazil 🇧🇷</p>
+<p align="left">Hi, I'm Davi Luquini. I'm adsaasdadsdas Full Stack Software Developer from Salvador, Brazil 🇧🇷</p>
 <p align="left">My main stack is .NET, and I'm currently learning the Angular framework.</p>
 
 <h2 align="left">My Techs</h2>
