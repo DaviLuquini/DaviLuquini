@@ -41,5 +41,5 @@
 
 <div>
 <a href="https://github.com/DaviLuquini">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviluquini&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=daviluquini&layout=compact&langs_count=8&card_width=320&theme=dracula"/>
 </div>
